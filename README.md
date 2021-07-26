@@ -1,4 +1,4 @@
-# Basic-Password-Manager-With-Text-Database
+# Basic-Password-Manager-with-JSON
 
 Generates/Saves password for websites and saves in json file.
 Created using Python, Tkinter
