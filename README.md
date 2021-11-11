@@ -1,7 +1,7 @@
 # Basic-Password-Manager-with-JSON
 
 Generates/Saves password for websites and saves in json file.
-Created using Python, Tkinter
+Created using Python, Tkinter.
 It can save, Generate and look up for saved username and password by website names.
 
 Note:
